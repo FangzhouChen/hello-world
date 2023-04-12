@@ -1,0 +1,11 @@
+---
+format: html
+execute: 
+  echo: false
+  warning: false
+  message: false
+---
+# my *frustrated* ***assignment***
+---
+
+```{R}
